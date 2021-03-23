@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherAppKotlin</string>
+    <string name="city">Москва</string>
+    <string name="date">23 марта</string>
+    <string name="temperature">10</string>
+    <string name="wind">3.00</string>
+    <string name="humidity">85</string>
+    <string name="date_1">24 марта</string>
+    <string name="day_of_week_1">среда</string>
+    <string name="temperature_1">12</string>
+    <string name="date_2">25 марта</string>
+    <string name="day_of_week_2">четверг</string>
+    <string name="temperature_2">7</string>
+    <string name="temperature_3">14</string>
+    <string name="date_3">26 марта</string>
+    <string name="day_of_week_3">пятница</string>
+</resources>
